@@ -10,7 +10,6 @@ GAME RULES:
 */
 //***********Author: Subrato Sarkar*********************************
 
-//*******************************************************Subrato*********************************************
 var scores, roundScores, activePlayer, dice, gamePlaying;
 
 init();
